@@ -3,6 +3,15 @@
 This project is a basic **Health Information System** built with **Django (DRF)** for the backend and **React** for the frontend. It allows doctors (system users) to manage health programs, register clients, enroll clients into programs, and view client profiles via a RESTful API.
 
 ---
+## Presentation & Prototype Demonstration
+
+You can view the **PowerPoint presentation** and **prototype video demonstration** here:
+
+🔗 [View Presentation & Demo](https://www.canva.com/design/DAGlwpwsr68/81XJ45Vpec3EKKV_q8j4sg/edit?utm_content=DAGlwpwsr68&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+_(The last slide contains the video demonstration!)_
+
+---
 
 ## Features
 
@@ -132,15 +141,7 @@ frontend/
 ---
 
 
-## Presentation & Prototype Demonstration
 
-You can view the **PowerPoint presentation** and **prototype video demonstration** here:
-
-🔗 [View Presentation & Demo](https://www.canva.com/design/DAGlwpwsr68/81XJ45Vpec3EKKV_q8j4sg/edit?utm_content=DAGlwpwsr68&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-_(The last slide contains the video demonstration!)_
-
----
 
 ## Author
 
