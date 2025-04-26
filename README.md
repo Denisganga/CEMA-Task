@@ -98,7 +98,7 @@ Frontend will run at:
 
 | Method | Endpoint | Description |
 |:-------|:---------|:------------|
-| POST | `/clients/add_program/` | Add a new health program |
+| POST | `api/programs/add/` | Add a new health program |
 | POST | `/clients/register/` | Register a new client |
 | POST | `/clients/enroll/` | Enroll a client in a program |
 | GET | `/clients/enrollments/` | List all client enrollments |
