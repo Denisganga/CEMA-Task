@@ -19,7 +19,7 @@ This project is a basic **Health Information System** built with **Django (DRF)*
 
 - **Backend:** Django, Django REST Framework (DRF)
 - **Frontend:** React.js
-- **Authentication:** (Planned) JWT Authentication
+- **Authentication:** JWT Authentication
 - **Database:** SQLite (for development)
 
 ---
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 python manage.py migrate
 ```
 JWT Authentication (Login create superuser)
-  ``bash
+  ```bash
   python manage.py createsuperuser
   ```
 5. **Start Django Server**
