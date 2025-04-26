@@ -74,7 +74,7 @@ Backend will run at:
 1. **Navigate to Frontend Folder**
 
 ```bash
-cd ../frontend
+cd health-info-frontend
 ```
 
 2. **Install Frontend Dependencies**
